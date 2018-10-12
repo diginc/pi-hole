@@ -1,4 +1,8 @@
-# Automated Install 
+# Deprecation
+
+This repository has been deprecated. Please refer to <https://github.com/pi-hole/docker-pi-hole> for your Docker Pi-Hole needs.
+
+# Automated Install
 ##### Designed For Raspberry Pi A+, B, B+, 2, Zero, and 3B (with an Ethernet/Wi-Fi adapter) (Works on most Debian distributions!)
 
 1. Install Raspbian 
